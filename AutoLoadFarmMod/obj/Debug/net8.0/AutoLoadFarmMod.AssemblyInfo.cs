@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoLoadFarmMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b056d35db04751503bf41e8760c5da9844c1baf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f0a97c26029cf9882be6d2ed37bd546e4c6077")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoLoadFarmMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoLoadFarmMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
