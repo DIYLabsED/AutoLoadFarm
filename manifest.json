@@ -1,0 +1,9 @@
+{
+  "Name": "Auto Load Farm",
+  "Author": "DIY Labs",
+  "Version": "1.0.0",
+  "Description": "Automatically loads a configurable farm on startup",
+  "UniqueID": "DIYLabs.AutoLoadFarm",
+  "EntryDll": "AutoLoadFarmMod.dll",
+  "MinimumApiVersion": "3.0.0"
+}
